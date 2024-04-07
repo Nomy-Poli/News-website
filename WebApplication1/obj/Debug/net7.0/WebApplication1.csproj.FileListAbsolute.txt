@@ -1,0 +1,162 @@
+C:\nomy\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\nomy\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\nomy\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+C:\nomy\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\nomy\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\nomy\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\nomy\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\nomy\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+E:\programing\nomy\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+E:\programing\nomy\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+E:\programing\nomy\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+E:\programing\nomy\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+E:\programing\nomy\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+E:\programing\nomy\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+E:\programing\nomy\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+E:\programing\nomy\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+E:\programing\nomy\WebApplication1\WebApplication1\bin\Debug\net7.0\HtmlAgilityPack.dll
+E:\programing\nomy\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+E:\programing\nomy\NewsApplication\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+E:\programing\nomy\NewsApplication\WebApplication1\bin\Debug\net7.0\appsettings.json
+E:\programing\nomy\NewsApplication\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+E:\programing\nomy\NewsApplication\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+E:\programing\nomy\NewsApplication\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+E:\programing\nomy\NewsApplication\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+E:\programing\nomy\NewsApplication\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+E:\programing\nomy\NewsApplication\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+E:\programing\nomy\NewsApplication\WebApplication1\bin\Debug\net7.0\HtmlAgilityPack.dll
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+E:\programing\nomy\NewsApplication\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+E:\programing\nomy\2\NewsApplication\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+E:\programing\nomy\2\NewsApplication\WebApplication1\bin\Debug\net7.0\appsettings.json
+E:\programing\nomy\2\NewsApplication\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+E:\programing\nomy\2\NewsApplication\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+E:\programing\nomy\2\NewsApplication\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+E:\programing\nomy\2\NewsApplication\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+E:\programing\nomy\2\NewsApplication\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+E:\programing\nomy\2\NewsApplication\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+E:\programing\nomy\2\NewsApplication\WebApplication1\bin\Debug\net7.0\HtmlAgilityPack.dll
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\WebAppli.7D14BD69.Up2Date
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+E:\programing\nomy\2\NewsApplication\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\USER\Desktop\משימה - פרויקט\NewsApplication\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll

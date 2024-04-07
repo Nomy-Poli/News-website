@@ -1,0 +1,23 @@
+﻿@model List<(string Title, string Link)>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+
+    <title>News Titles</title>
+    <link rel="stylesheet" type="text/css" href="../Views/styles.css">
+    <script src="./js/site.js" defer></script>
+</head>
+<body>   
+    <h1>News Titles</h1>
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>
+                @await Html.PartialAsync("_TitlePartial", item)
+            </li>
+        }
+    </ul>
+</body>
+</html>

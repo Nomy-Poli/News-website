@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "65TTrXh6wT97uIqgVt/5MZukB9fysMpBCgQPES//9nsBtEBpkBPNhd7enVx5KBgDHWG+TzR8UqTuYw6QH/K3zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\משימה - פרויקט\\NewsApplication\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\htmlagilitypack\\1.11.60\\htmlagilitypack.1.11.60.nupkg.sha512"
+  ],
+  "logs": []
+}
